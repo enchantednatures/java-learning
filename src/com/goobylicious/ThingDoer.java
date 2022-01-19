@@ -13,6 +13,5 @@ public class ThingDoer {
             System.out.println("look at me gooby, I'm the thing doer: " + name);
             System.out.println("i'm dun be doin things here! I'm on my " + i + " thing i dun be doin!");
         }
-
     }
 }
